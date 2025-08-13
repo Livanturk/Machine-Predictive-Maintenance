@@ -1,0 +1,6 @@
+machine/
+data/raw/predictive_maintenance.csv
+pytest.ini
+.pytest_cache/
+src/__pycache__/
+tests/__pycache__/
