@@ -5,17 +5,21 @@ The goal is to **classify** failure types or detect if a failure will occur, usi
 
 > **Status:** Work in progress 
 
-##  Project Structure
-.
+## Project Structure
+
+```
+project-root/
 ├── src/
-│ └── preprocess.py # Preprocessing pipeline for data cleaning & feature transformation
+│   └── preprocess.py              # Preprocessing pipeline for data cleaning & feature transformation
 ├── tests/
-│ └── test_preprocess.py # Unit tests for preprocessing
+│   └── test_preprocess.py         # Unit tests for preprocessing
 ├── data/
-│ └── predictive_maintenance.csv # Dataset (not tracked in Git)
+│   └── predictive_maintenance.csv # Dataset (not tracked in Git)
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
+
 
 
 ##  Current Features
