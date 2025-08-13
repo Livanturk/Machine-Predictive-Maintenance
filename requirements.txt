@@ -1,0 +1,6 @@
+ipykernel==6.30.1
+pip==24.0
+pytest==8.4.1
+scikit-learn==1.7.1
+seaborn==0.13.2
+setuptools==65.5.0
